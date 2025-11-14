@@ -54,6 +54,7 @@
 </div>
 
 ## Release
+- `2025-11-07` :hearts: HumanSense is accepted by AAAI 2026!
 - `2025-08-27` :hearts: We release both the training code and dataset!
 - `2025-08-27` :hearts: We released Benchmark and code!
 - `2025-08-15` :rocket: We released our paper!
